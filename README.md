@@ -6,6 +6,10 @@ A single page profile web template powered by Jekyll.
 
 It is a flat design single page card style profile site that runs the liquid powered by Jekyll. Easy to setup and use as your profile website.
 
+### Have a look?
+
+[ProfileFlat](https://mistryvatsal.github.io/profileflat/)
+
 ### How to use?
 
 To use ProfileFlat as your profile website, 
