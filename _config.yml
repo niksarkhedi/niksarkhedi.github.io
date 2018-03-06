@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "/profileflat/"
+baseurl: /profileflat
 
 # UI configs
 title: "Vatsal Mistry"
