@@ -1,15 +1,15 @@
 # Base configs
-baseurl:""
+
+baseurl: ""
 
 # UI configs
 title: "Nikhil Sarkhedi"
-author: "Nikhil Sarkhedi"
-about: "A Pythonista"
+author: "Nikhil Sarkhed"
+about: "programmer"
 social_urls:
- facebook: "https://www.facebook.com/nikhil.sarkhedi"
- twitter: "#"
- instagram: "https://www.instagram.com/nik_sarkhedi/"
-    
+  facebook: "https://www.facebook.com/nikhil.sarkhedi"
+  twitter: "#"
+  instagram: "https://www.instagram.com/nik_sarkhedi/"
 
   
   
